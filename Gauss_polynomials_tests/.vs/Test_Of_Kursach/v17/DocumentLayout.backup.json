@@ -1,0 +1,179 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Misha\\source\\repos\\Test_Of_Kursach\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{20B05FE3-C2C8-4EE9-8EC1-7A351BD9FC12}|Test_Of_Kursach.csproj|C:\\Users\\Misha\\source\\repos\\Test_Of_Kursach\\gauss_polinom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20B05FE3-C2C8-4EE9-8EC1-7A351BD9FC12}|Test_Of_Kursach.csproj|solutionrelative:gauss_polinom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20B05FE3-C2C8-4EE9-8EC1-7A351BD9FC12}|Test_Of_Kursach.csproj|C:\\Users\\Misha\\source\\repos\\Test_Of_Kursach\\empirical_testing_recursion_method_for_searching_coeffs_polinoms_of_gauss.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20B05FE3-C2C8-4EE9-8EC1-7A351BD9FC12}|Test_Of_Kursach.csproj|solutionrelative:empirical_testing_recursion_method_for_searching_coeffs_polinoms_of_gauss.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20B05FE3-C2C8-4EE9-8EC1-7A351BD9FC12}|Test_Of_Kursach.csproj|c:\\users\\misha\\source\\repos\\test_of_kursach\\empirical_testing_simple_method_for_searching_coeffs_polinoms_of_gauss.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20B05FE3-C2C8-4EE9-8EC1-7A351BD9FC12}|Test_Of_Kursach.csproj|solutionrelative:empirical_testing_simple_method_for_searching_coeffs_polinoms_of_gauss.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20B05FE3-C2C8-4EE9-8EC1-7A351BD9FC12}|Test_Of_Kursach.csproj|C:\\Users\\Misha\\source\\repos\\Test_Of_Kursach\\unittestforthe_lame_king_ways.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20B05FE3-C2C8-4EE9-8EC1-7A351BD9FC12}|Test_Of_Kursach.csproj|solutionrelative:unittestforthe_lame_king_ways.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20B05FE3-C2C8-4EE9-8EC1-7A351BD9FC12}|Test_Of_Kursach.csproj|C:\\Users\\Misha\\source\\repos\\Test_Of_Kursach\\unittestforgauss_polinom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20B05FE3-C2C8-4EE9-8EC1-7A351BD9FC12}|Test_Of_Kursach.csproj|solutionrelative:unittestforgauss_polinom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20B05FE3-C2C8-4EE9-8EC1-7A351BD9FC12}|Test_Of_Kursach.csproj|C:\\Users\\Misha\\source\\repos\\Test_Of_Kursach\\interblock_inversions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20B05FE3-C2C8-4EE9-8EC1-7A351BD9FC12}|Test_Of_Kursach.csproj|solutionrelative:interblock_inversions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20B05FE3-C2C8-4EE9-8EC1-7A351BD9FC12}|Test_Of_Kursach.csproj|C:\\Users\\Misha\\source\\repos\\Test_Of_Kursach\\the_lame_king.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20B05FE3-C2C8-4EE9-8EC1-7A351BD9FC12}|Test_Of_Kursach.csproj|solutionrelative:the_lame_king.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20B05FE3-C2C8-4EE9-8EC1-7A351BD9FC12}|Test_Of_Kursach.csproj|C:\\Users\\Misha\\source\\repos\\Test_Of_Kursach\\unitforinterblock_inversionns.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20B05FE3-C2C8-4EE9-8EC1-7A351BD9FC12}|Test_Of_Kursach.csproj|solutionrelative:unitforinterblock_inversionns.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{004be353-6879-467c-9d1e-9ac23cdf6d49}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Empirical_testing_Simple_method_for_searching_coeffs_polinoms_of_Gauss.cs",
+              "DocumentMoniker": "C:\\Users\\Misha\\source\\repos\\Test_Of_Kursach\\Empirical_testing_Simple_method_for_searching_coeffs_polinoms_of_Gauss.cs",
+              "RelativeDocumentMoniker": "Empirical_testing_Simple_method_for_searching_coeffs_polinoms_of_Gauss.cs",
+              "ToolTip": "C:\\Users\\Misha\\source\\repos\\Test_Of_Kursach\\Empirical_testing_Simple_method_for_searching_coeffs_polinoms_of_Gauss.cs",
+              "RelativeToolTip": "Empirical_testing_Simple_method_for_searching_coeffs_polinoms_of_Gauss.cs",
+              "ViewState": "AgIAAGoCAAAAAAAAAAAmwMICAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T17:08:22.803Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Empirical_testing_Recursion_method_for_searching_coeffs_polinoms_of_Gauss.cs",
+              "DocumentMoniker": "C:\\Users\\Misha\\source\\repos\\Test_Of_Kursach\\Empirical_testing_Recursion_method_for_searching_coeffs_polinoms_of_Gauss.cs",
+              "RelativeDocumentMoniker": "Empirical_testing_Recursion_method_for_searching_coeffs_polinoms_of_Gauss.cs",
+              "ToolTip": "C:\\Users\\Misha\\source\\repos\\Test_Of_Kursach\\Empirical_testing_Recursion_method_for_searching_coeffs_polinoms_of_Gauss.cs",
+              "RelativeToolTip": "Empirical_testing_Recursion_method_for_searching_coeffs_polinoms_of_Gauss.cs",
+              "ViewState": "AgIAAKICAAAAAAAAAAAIwKABAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T17:11:43.484Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Gauss_polinom.cs",
+              "DocumentMoniker": "C:\\Users\\Misha\\source\\repos\\Test_Of_Kursach\\Gauss_polinom.cs",
+              "RelativeDocumentMoniker": "Gauss_polinom.cs",
+              "ToolTip": "C:\\Users\\Misha\\source\\repos\\Test_Of_Kursach\\Gauss_polinom.cs",
+              "RelativeToolTip": "Gauss_polinom.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAJUBAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T17:02:59.233Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UnitTestForGauss_Polinom.cs",
+              "DocumentMoniker": "C:\\Users\\Misha\\source\\repos\\Test_Of_Kursach\\UnitTestForGauss_Polinom.cs",
+              "RelativeDocumentMoniker": "UnitTestForGauss_Polinom.cs",
+              "ToolTip": "C:\\Users\\Misha\\source\\repos\\Test_Of_Kursach\\UnitTestForGauss_Polinom.cs",
+              "RelativeToolTip": "UnitTestForGauss_Polinom.cs",
+              "ViewState": "AgIAAI0BAAAAAAAAAAAnwLQBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T17:05:53.144Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UnitTestForThe_lame_king_ways.cs",
+              "DocumentMoniker": "C:\\Users\\Misha\\source\\repos\\Test_Of_Kursach\\UnitTestForThe_lame_king_ways.cs",
+              "RelativeDocumentMoniker": "UnitTestForThe_lame_king_ways.cs",
+              "ToolTip": "C:\\Users\\Misha\\source\\repos\\Test_Of_Kursach\\UnitTestForThe_lame_king_ways.cs",
+              "RelativeToolTip": "UnitTestForThe_lame_king_ways.cs",
+              "ViewState": "AgIAAHkAAAAAAAAAAAASwG8AAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T15:01:11.134Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UnitForInterblock_inversionns.cs",
+              "DocumentMoniker": "C:\\Users\\Misha\\source\\repos\\Test_Of_Kursach\\UnitForInterblock_inversionns.cs",
+              "RelativeDocumentMoniker": "UnitForInterblock_inversionns.cs",
+              "ToolTip": "C:\\Users\\Misha\\source\\repos\\Test_Of_Kursach\\UnitForInterblock_inversionns.cs",
+              "RelativeToolTip": "UnitForInterblock_inversionns.cs",
+              "ViewState": "AgIAAHEAAAAAAAAAAAAiwJEAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T11:16:24.48Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "The_lame_king.cs",
+              "DocumentMoniker": "C:\\Users\\Misha\\source\\repos\\Test_Of_Kursach\\The_lame_king.cs",
+              "RelativeDocumentMoniker": "The_lame_king.cs",
+              "ToolTip": "C:\\Users\\Misha\\source\\repos\\Test_Of_Kursach\\The_lame_king.cs",
+              "RelativeToolTip": "The_lame_king.cs",
+              "ViewState": "AgIAAGQAAAAAAAAAAAArwIYAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T10:07:19.701Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Interblock_inversions.cs",
+              "DocumentMoniker": "C:\\Users\\Misha\\source\\repos\\Test_Of_Kursach\\Interblock_inversions.cs",
+              "RelativeDocumentMoniker": "Interblock_inversions.cs",
+              "ToolTip": "C:\\Users\\Misha\\source\\repos\\Test_Of_Kursach\\Interblock_inversions.cs",
+              "RelativeToolTip": "Interblock_inversions.cs",
+              "ViewState": "AgIAAE4AAAAAAAAAAAAmwGQAAABRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T15:32:33.234Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

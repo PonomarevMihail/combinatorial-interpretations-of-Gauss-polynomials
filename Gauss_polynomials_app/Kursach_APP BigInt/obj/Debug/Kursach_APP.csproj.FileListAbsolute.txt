@@ -1,0 +1,14 @@
+C:\Users\Misha\source\repos\Kursach_APP\bin\Debug\Kursach_APP.exe.config
+C:\Users\Misha\source\repos\Kursach_APP\bin\Debug\Kursach_APP.exe
+C:\Users\Misha\source\repos\Kursach_APP\bin\Debug\Kursach_APP.pdb
+C:\Users\Misha\source\repos\Kursach_APP\obj\Debug\Kursach_APP.csproj.AssemblyReference.cache
+C:\Users\Misha\source\repos\Kursach_APP\obj\Debug\Kursach_APP.Kursach.resources
+C:\Users\Misha\source\repos\Kursach_APP\obj\Debug\Kursach_APP.Properties.Resources.resources
+C:\Users\Misha\source\repos\Kursach_APP\obj\Debug\Kursach_APP.csproj.GenerateResource.cache
+C:\Users\Misha\source\repos\Kursach_APP\obj\Debug\Kursach_APP.csproj.CoreCompileInputs.cache
+C:\Users\Misha\source\repos\Kursach_APP\obj\Debug\Kursach_APP.exe
+C:\Users\Misha\source\repos\Kursach_APP\obj\Debug\Kursach_APP.pdb
+C:\Users\Misha\source\repos\Kursach_APP\obj\Debug\Kursach_APP.FormResults.resources
+C:\Users\Misha\source\repos\Kursach_APP\obj\Debug\Kursach_APP.Input_Interblock_Inversions.resources
+C:\Users\Misha\source\repos\Kursach_APP\obj\Debug\Kursach_APP.FormInversionResults.resources
+C:\Users\Misha\source\repos\Kursach_APP\obj\Debug\Kursach_APP.WaysOfTheLameKing.resources

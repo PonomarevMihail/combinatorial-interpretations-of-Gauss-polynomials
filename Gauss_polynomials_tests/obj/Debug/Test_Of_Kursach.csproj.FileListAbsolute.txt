@@ -1,0 +1,42 @@
+C:\Users\Misha\source\repos\Test_Of_Kursach\obj\Debug\Test_Of_Kursach.csproj.AssemblyReference.cache
+C:\Users\Misha\source\repos\Test_Of_Kursach\obj\Debug\Test_Of_Kursach.csproj.CoreCompileInputs.cache
+C:\Users\Misha\source\repos\Test_Of_Kursach\bin\Debug\ru\Microsoft.TestPlatform.AdapterUtilities.resources.dll
+C:\Users\Misha\source\repos\Test_Of_Kursach\bin\Debug\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Misha\source\repos\Test_Of_Kursach\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+C:\Users\Misha\source\repos\Test_Of_Kursach\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+C:\Users\Misha\source\repos\Test_Of_Kursach\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Misha\source\repos\Test_Of_Kursach\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\Misha\source\repos\Test_Of_Kursach\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Misha\source\repos\Test_Of_Kursach\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Misha\source\repos\Test_Of_Kursach\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Misha\source\repos\Test_Of_Kursach\bin\Debug\Microsoft.TestPlatform.AdapterUtilities.dll
+C:\Users\Misha\source\repos\Test_Of_Kursach\bin\Debug\Test_Of_Kursach.dll
+C:\Users\Misha\source\repos\Test_Of_Kursach\bin\Debug\Test_Of_Kursach.pdb
+C:\Users\Misha\source\repos\Test_Of_Kursach\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Misha\source\repos\Test_Of_Kursach\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Misha\source\repos\Test_Of_Kursach\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Misha\source\repos\Test_Of_Kursach\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Misha\source\repos\Test_Of_Kursach\obj\Debug\Test_Of_.0CF6333D.Up2Date
+C:\Users\Misha\source\repos\Test_Of_Kursach\obj\Debug\Test_Of_Kursach.dll
+C:\Users\Misha\source\repos\Test_Of_Kursach\obj\Debug\Test_Of_Kursach.pdb
+C:\Users\Misha\source\repos\Test_Of_Kursach Long type\bin\Debug\ru\Microsoft.TestPlatform.AdapterUtilities.resources.dll
+C:\Users\Misha\source\repos\Test_Of_Kursach Long type\bin\Debug\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Misha\source\repos\Test_Of_Kursach Long type\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+C:\Users\Misha\source\repos\Test_Of_Kursach Long type\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+C:\Users\Misha\source\repos\Test_Of_Kursach Long type\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Misha\source\repos\Test_Of_Kursach Long type\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\Misha\source\repos\Test_Of_Kursach Long type\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Misha\source\repos\Test_Of_Kursach Long type\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Misha\source\repos\Test_Of_Kursach Long type\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Misha\source\repos\Test_Of_Kursach Long type\bin\Debug\Microsoft.TestPlatform.AdapterUtilities.dll
+C:\Users\Misha\source\repos\Test_Of_Kursach Long type\bin\Debug\Test_Of_Kursach.dll
+C:\Users\Misha\source\repos\Test_Of_Kursach Long type\bin\Debug\Test_Of_Kursach.pdb
+C:\Users\Misha\source\repos\Test_Of_Kursach Long type\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Misha\source\repos\Test_Of_Kursach Long type\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Misha\source\repos\Test_Of_Kursach Long type\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Misha\source\repos\Test_Of_Kursach Long type\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Misha\source\repos\Test_Of_Kursach Long type\obj\Debug\Test_Of_Kursach.csproj.AssemblyReference.cache
+C:\Users\Misha\source\repos\Test_Of_Kursach Long type\obj\Debug\Test_Of_Kursach.csproj.CoreCompileInputs.cache
+C:\Users\Misha\source\repos\Test_Of_Kursach Long type\obj\Debug\Test_Of_.0CF6333D.Up2Date
+C:\Users\Misha\source\repos\Test_Of_Kursach Long type\obj\Debug\Test_Of_Kursach.dll
+C:\Users\Misha\source\repos\Test_Of_Kursach Long type\obj\Debug\Test_Of_Kursach.pdb
