@@ -132,6 +132,13 @@ namespace Gauss_1
 
             long targetCount = coeff_of_gaus[required_quantity];
             long temp_steps = 0;
+
+            if (required_quantity == 0)
+            {
+                vector_of_steps_lame_king.Add(multiset);
+                return (vector_of_steps_lame_king);
+            }
+
             Random rand = new Random();
 
             

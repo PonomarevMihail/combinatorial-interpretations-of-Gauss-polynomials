@@ -3,20 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\Misha\\source\\repos\\Kursach_APP BigInt\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{60F242EE-13C6-4BB3-8161-1BB17B8AAAE2}|Kursach_APP BigInt.csproj|c:\\users\\misha\\source\\repos\\kursach_app bigint\\waysofthelameking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{60F242EE-13C6-4BB3-8161-1BB17B8AAAE2}|Kursach_APP BigInt.csproj|solutionrelative:waysofthelameking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{60F242EE-13C6-4BB3-8161-1BB17B8AAAE2}|Kursach_APP BigInt.csproj|c:\\users\\misha\\source\\repos\\kursach_app bigint\\forminversionresults.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{60F242EE-13C6-4BB3-8161-1BB17B8AAAE2}|Kursach_APP BigInt.csproj|solutionrelative:forminversionresults.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{60F242EE-13C6-4BB3-8161-1BB17B8AAAE2}|Kursach_APP BigInt.csproj|c:\\users\\misha\\source\\repos\\kursach_app bigint\\formresults.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{60F242EE-13C6-4BB3-8161-1BB17B8AAAE2}|Kursach_APP BigInt.csproj|C:\\Users\\Misha\\source\\repos\\Kursach_APP BigInt\\formresults.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{60F242EE-13C6-4BB3-8161-1BB17B8AAAE2}|Kursach_APP BigInt.csproj|solutionrelative:formresults.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{60F242EE-13C6-4BB3-8161-1BB17B8AAAE2}|Kursach_APP BigInt.csproj|c:\\users\\misha\\source\\repos\\kursach_app bigint\\waysofthelameking.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{60F242EE-13C6-4BB3-8161-1BB17B8AAAE2}|Kursach_APP BigInt.csproj|solutionrelative:waysofthelameking.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{60F242EE-13C6-4BB3-8161-1BB17B8AAAE2}|Kursach_APP BigInt.csproj|c:\\users\\misha\\source\\repos\\kursach_app bigint\\the_lame_king.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60F242EE-13C6-4BB3-8161-1BB17B8AAAE2}|Kursach_APP BigInt.csproj|solutionrelative:the_lame_king.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60F242EE-13C6-4BB3-8161-1BB17B8AAAE2}|Kursach_APP BigInt.csproj|c:\\users\\misha\\source\\repos\\kursach_app bigint\\interblock_inversions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60F242EE-13C6-4BB3-8161-1BB17B8AAAE2}|Kursach_APP BigInt.csproj|solutionrelative:interblock_inversions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,58 +26,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 7,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "WaysOfTheLameKing.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\Misha\\source\\repos\\Kursach_APP BigInt\\WaysOfTheLameKing.Designer.cs",
-              "RelativeDocumentMoniker": "WaysOfTheLameKing.Designer.cs",
-              "ToolTip": "C:\\Users\\Misha\\source\\repos\\Kursach_APP BigInt\\WaysOfTheLameKing.Designer.cs",
-              "RelativeToolTip": "WaysOfTheLameKing.Designer.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAWAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-11T12:58:27.516Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "WaysOfTheLameKing.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
-              "DocumentMoniker": "C:\\Users\\Misha\\source\\repos\\Kursach_APP BigInt\\WaysOfTheLameKing.cs",
-              "RelativeDocumentMoniker": "WaysOfTheLameKing.cs",
-              "ToolTip": "C:\\Users\\Misha\\source\\repos\\Kursach_APP BigInt\\WaysOfTheLameKing.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
-              "RelativeToolTip": "WaysOfTheLameKing.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-11T12:56:01.396Z",
-              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "FormResults.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
-              "DocumentMoniker": "C:\\Users\\Misha\\source\\repos\\Kursach_APP BigInt\\FormResults.cs",
-              "RelativeDocumentMoniker": "FormResults.cs",
-              "ToolTip": "C:\\Users\\Misha\\source\\repos\\Kursach_APP BigInt\\FormResults.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
-              "RelativeToolTip": "FormResults.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-11T12:52:46.379Z",
-              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "FormInversionResults.cs",
-              "DocumentMoniker": "C:\\Users\\Misha\\source\\repos\\Kursach_APP BigInt\\FormInversionResults.cs",
-              "RelativeDocumentMoniker": "FormInversionResults.cs",
-              "ToolTip": "C:\\Users\\Misha\\source\\repos\\Kursach_APP BigInt\\FormInversionResults.cs",
-              "RelativeToolTip": "FormInversionResults.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAhwCsAAAAiAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-11T12:43:53.698Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{004be353-6879-467c-9d1e-9ac23cdf6d49}"
@@ -95,8 +45,55 @@
               "Name": "ST:0:0:{a80febb4-e7e0-4147-b476-21aaf2453969}"
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Interblock_inversions.cs",
+              "DocumentMoniker": "C:\\Users\\Misha\\source\\repos\\Kursach_APP BigInt\\Interblock_inversions.cs",
+              "RelativeDocumentMoniker": "Interblock_inversions.cs",
+              "ToolTip": "C:\\Users\\Misha\\source\\repos\\Kursach_APP BigInt\\Interblock_inversions.cs",
+              "RelativeToolTip": "Interblock_inversions.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T17:15:03.608Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "The_lame_king.cs",
+              "DocumentMoniker": "C:\\Users\\Misha\\source\\repos\\Kursach_APP BigInt\\The_lame_king.cs",
+              "RelativeDocumentMoniker": "The_lame_king.cs",
+              "ToolTip": "C:\\Users\\Misha\\source\\repos\\Kursach_APP BigInt\\The_lame_king.cs",
+              "RelativeToolTip": "The_lame_king.cs",
+              "ViewState": "AgIAAG4AAAAAAAAAAAAuwHsAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T17:14:54.889Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FormResults.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\Misha\\source\\repos\\Kursach_APP BigInt\\FormResults.cs",
+              "RelativeDocumentMoniker": "FormResults.cs",
+              "ToolTip": "C:\\Users\\Misha\\source\\repos\\Kursach_APP BigInt\\FormResults.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "FormResults.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T12:52:46.379Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FormInversionResults.cs",
+              "DocumentMoniker": "C:\\Users\\Misha\\source\\repos\\Kursach_APP BigInt\\FormInversionResults.cs",
+              "RelativeDocumentMoniker": "FormInversionResults.cs",
+              "ToolTip": "C:\\Users\\Misha\\source\\repos\\Kursach_APP BigInt\\FormInversionResults.cs",
+              "RelativeToolTip": "FormInversionResults.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAhwCsAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T12:43:53.698Z",
+              "EditorCaption": ""
             }
           ]
         }

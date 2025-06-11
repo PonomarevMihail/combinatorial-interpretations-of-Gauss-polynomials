@@ -41,8 +41,6 @@ namespace Gauss_1
             }
         }
 
-        
-
         public int GetSizeIntOne()
         {
             return size_int_1;
@@ -122,7 +120,7 @@ namespace Gauss_1
                 result = gauss_Polinom.A_simple_way_to_find_the_coefficients_of_a_Gauss_polynomial(size_int_1 + size_int_2, size_int_1);
             }
 
-            long the_number_of_possible_permutations_with_k_inversions = Math.Abs(result[required_quantity]);
+            long the_number_of_possible_permutations_with_k_inversions = result[required_quantity];
             
 
 
