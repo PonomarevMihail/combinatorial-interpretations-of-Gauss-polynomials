@@ -41,42 +41,47 @@
             // label1
             // 
             this.label1.AutoSize = true;
-            this.label1.Location = new System.Drawing.Point(240, 49);
+            this.label1.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
+            this.label1.Location = new System.Drawing.Point(182, 53);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(220, 13);
+            this.label1.Size = new System.Drawing.Size(330, 20);
             this.label1.TabIndex = 0;
             this.label1.Text = "Входные данные для многочленов Гаусса";
             // 
             // label2
             // 
             this.label2.AutoSize = true;
-            this.label2.Location = new System.Drawing.Point(212, 85);
+            this.label2.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
+            this.label2.Location = new System.Drawing.Point(210, 86);
             this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(15, 13);
+            this.label2.Size = new System.Drawing.Size(20, 20);
             this.label2.TabIndex = 1;
             this.label2.Text = "N";
             // 
             // label3
             // 
             this.label3.AutoSize = true;
-            this.label3.Location = new System.Drawing.Point(212, 129);
+            this.label3.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
+            this.label3.Location = new System.Drawing.Point(210, 130);
             this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(14, 13);
+            this.label3.Size = new System.Drawing.Size(19, 20);
             this.label3.TabIndex = 2;
             this.label3.Text = "K";
             // 
             // InputK
             // 
-            this.InputK.Location = new System.Drawing.Point(243, 126);
+            this.InputK.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
+            this.InputK.Location = new System.Drawing.Point(241, 127);
             this.InputK.Name = "InputK";
-            this.InputK.Size = new System.Drawing.Size(217, 20);
+            this.InputK.Size = new System.Drawing.Size(217, 26);
             this.InputK.TabIndex = 4;
             // 
             // button1
             // 
-            this.button1.Location = new System.Drawing.Point(103, 185);
+            this.button1.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
+            this.button1.Location = new System.Drawing.Point(103, 175);
             this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(484, 39);
+            this.button1.Size = new System.Drawing.Size(484, 55);
             this.button1.TabIndex = 5;
             this.button1.Text = "Нахождение коэффициентов многочлена Гаусса";
             this.button1.UseVisualStyleBackColor = true;
@@ -84,9 +89,10 @@
             // 
             // button2
             // 
-            this.button2.Location = new System.Drawing.Point(103, 230);
+            this.button2.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
+            this.button2.Location = new System.Drawing.Point(103, 236);
             this.button2.Name = "button2";
-            this.button2.Size = new System.Drawing.Size(484, 69);
+            this.button2.Size = new System.Drawing.Size(484, 58);
             this.button2.TabIndex = 6;
             this.button2.Text = "Нахождение всевозможных межблочных инверсий";
             this.button2.UseVisualStyleBackColor = true;
@@ -94,9 +100,10 @@
             // 
             // button3
             // 
-            this.button3.Location = new System.Drawing.Point(103, 305);
+            this.button3.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
+            this.button3.Location = new System.Drawing.Point(103, 300);
             this.button3.Name = "button3";
-            this.button3.Size = new System.Drawing.Size(484, 45);
+            this.button3.Size = new System.Drawing.Size(484, 62);
             this.button3.TabIndex = 7;
             this.button3.Text = "Построение всевозможных путей хромого короля";
             this.button3.UseVisualStyleBackColor = true;
@@ -104,9 +111,10 @@
             // 
             // InputN
             // 
-            this.InputN.Location = new System.Drawing.Point(243, 82);
+            this.InputN.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
+            this.InputN.Location = new System.Drawing.Point(241, 86);
             this.InputN.Name = "InputN";
-            this.InputN.Size = new System.Drawing.Size(217, 20);
+            this.InputN.Size = new System.Drawing.Size(217, 26);
             this.InputN.TabIndex = 8;
             // 
             // Kursach
@@ -123,7 +131,7 @@
             this.Controls.Add(this.label2);
             this.Controls.Add(this.label1);
             this.Name = "Kursach";
-            this.Text = "Combinatorial interpretations of the Gauss polynomial";
+            this.Text = "Комбинаторные интерпретации многочленов Гаусса";
             this.ResumeLayout(false);
             this.PerformLayout();
 

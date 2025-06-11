@@ -16,7 +16,7 @@ namespace Kursach_APP
         {
             InitializeComponent();
             InitializeTable();
-            label1.Text = $"Количество возможных перестановок: {inversions.Count}";
+            this.Text += $". Количество возможных перестановок: {inversions.Count}";
 
             if (miniInversions == null && inversions.Count == 1)
             {
@@ -50,5 +50,7 @@ namespace Kursach_APP
             dataGridViewInversions.DefaultCellStyle.WrapMode = DataGridViewTriState.True;
             dataGridViewInversions.AutoSizeRowsMode = DataGridViewAutoSizeRowsMode.AllCells;
         }
+
+        
     }
 }

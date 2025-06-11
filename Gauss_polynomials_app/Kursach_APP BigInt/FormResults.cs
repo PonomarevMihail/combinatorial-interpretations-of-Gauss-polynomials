@@ -16,7 +16,7 @@ namespace Kursach_APP
         public FormResults(List<long> coefficients,int n,int k)
         {
             InitializeComponent();
-            label1.Text =  $"Многочлен Гаусса со значениями n = {n}, k = {k}";
+            this.Text +=  $" со значениями n = {n}, k = {k}";
             // Настраиваем таблицу
             dataGridView1.Columns.Add("degree", "Степень q");
             dataGridView1.Columns.Add("coefficient", "Коэффициент");
@@ -27,6 +27,6 @@ namespace Kursach_APP
             }
         }
 
-      
+       
     }
 }

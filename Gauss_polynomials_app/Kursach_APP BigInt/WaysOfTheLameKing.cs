@@ -18,7 +18,7 @@ namespace Kursach_APP
             InitializeComponent();
             InitializeTable();
 
-            label1.Text = $"Количество возможных перестановок: {ways_of_the_lame_king.Count}";
+            this.Text += $". Количество возможных перестановок: {ways_of_the_lame_king.Count}";
            
 
             for (int i = 0; i < ways_of_the_lame_king.Count; i++)

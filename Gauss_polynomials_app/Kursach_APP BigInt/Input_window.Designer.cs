@@ -37,7 +37,7 @@
             // 
             this.label3.AutoSize = true;
             this.label3.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F);
-            this.label3.Location = new System.Drawing.Point(100, 60);
+            this.label3.Location = new System.Drawing.Point(107, 51);
             this.label3.Name = "label3";
             this.label3.Size = new System.Drawing.Size(414, 17);
             this.label3.TabIndex = 2;
@@ -46,14 +46,14 @@
             // InputCountOfInversions
             // 
             this.InputCountOfInversions.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            this.InputCountOfInversions.Location = new System.Drawing.Point(231, 80);
+            this.InputCountOfInversions.Location = new System.Drawing.Point(211, 80);
             this.InputCountOfInversions.Name = "InputCountOfInversions";
             this.InputCountOfInversions.Size = new System.Drawing.Size(204, 20);
             this.InputCountOfInversions.TabIndex = 5;
             // 
             // button1
             // 
-            this.button1.Location = new System.Drawing.Point(231, 106);
+            this.button1.Location = new System.Drawing.Point(211, 106);
             this.button1.Name = "button1";
             this.button1.Size = new System.Drawing.Size(204, 35);
             this.button1.TabIndex = 6;
@@ -65,12 +65,12 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(649, 285);
+            this.ClientSize = new System.Drawing.Size(634, 229);
             this.Controls.Add(this.button1);
             this.Controls.Add(this.InputCountOfInversions);
             this.Controls.Add(this.label3);
             this.Name = "Input_window";
-            this.Text = "Input_Window";
+            this.Text = "Окно ввода количества инверсий";
             this.ResumeLayout(false);
             this.PerformLayout();
 
